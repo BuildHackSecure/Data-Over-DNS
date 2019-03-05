@@ -5,6 +5,7 @@ To use this tool you will need a domain name and be able to update DNS records.
 You will need to create a subdomain domain NS record pointing to your own computer or cloud instance.
 
 #DNS Server
+
 Run the dns server with "sudo node DoDNS.js"
 //sudo is required to bind to port 53
 
